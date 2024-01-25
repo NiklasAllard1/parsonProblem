@@ -1,7 +1,7 @@
 {
   "name": "parson",
   "private": true,
-  "homepage": "https://github.com/NiklasAllard1/parsonProblemNiklas",
+  "homepage": "https://github.com/NiklasAllard1/parsonProblem",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
